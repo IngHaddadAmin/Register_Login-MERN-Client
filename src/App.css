@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(42, 38, 32) !important;
+}
+.form, .showdata{
+  
+  max-width: 350px;
+  display: flex;
+ flex-direction: column ;
+  margin: 25px auto ;
+  gap: 2px;
+}
